@@ -9,6 +9,8 @@ import {AppRegistry} from "react-native";
 const Stack = createStackNavigator();
 AppRegistry.registerComponent('MyApp', () => MyApp);
 
+
+
 const MyApp = () => {
     return (
             <NavigationContainer>
